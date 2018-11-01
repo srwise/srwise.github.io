@@ -1,39 +1,57 @@
-body{
-  text-align: center;
-  background-color: gray;
+body {
+  background:dimgrey;
 }
-img {
-  width: 500px;
-  border-color:black;
-  border-style: ridge;
-  border-width: 5px;
+h1{
+  color:firebrick;
+  text-align:center;
+  font-weight: bold;
+  font-family: fantasy;
+  font-size: 60px
 }
-h1 {
+p {
+  color: white;
+  font-family:serif;
+}
+h2{
+  color:white;
+  font-family:fantasy;
   font-size: 50px;
+  text-align: center;
 }
-h2 {
+h4{
+  color: firebrick;
+  font-family:fantasy;
   font-size: 40px;
 }
-h5 {
-  font-size: 15px;
-} 
-
-.winter {
-  color: rgb(195,230,255);
-  font-family: monospace; 
-} 
-
-.spring {
-  color: rgb(236,222,106);
-  font-family: cursive;  
+li{
+  color:black;
+  font-size: 30px;
 }
-
-.summer {
-  color: rgb(234,128,158);
-  font-family: sans-serif;
+a{
+  color:black;
 }
-
-.fall {
-  color: rgb(61,172,83);
+img{
+  border-style: ridge;
+  border-color: firebrick;
+  border-width: thick;
+}
+.text{
+  font-family: cursive;
+}
+.gscalendarwarning{
+  color:rgb(225,0,0);
   font-family: inherit;
 }
+.allprices{
+  color:rgb(225,0,0);
+  font-family:sans-serif;
+}
+.img{
+  width:250px;
+  height:200px;
+}
+    
+
+
+
+  
